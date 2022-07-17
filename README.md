@@ -1,4 +1,4 @@
-# dairy_business
+# Dairy_business
 
 # Description
 This is a simple web site that produces reports for a dairy farm. 
