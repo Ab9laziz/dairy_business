@@ -80,6 +80,7 @@ div a:hover{
     color: white;
     padding: 20px;
     border-radius: 10px;
+    font-weight: bolder;
 }
 
 .nav_button input:hover{
