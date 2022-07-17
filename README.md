@@ -9,7 +9,7 @@ This is a simple web site that produces reports for a dairy farm.
 ![screenshot2](/assets/images/Screenshot2.png)
 
 # Setup and installation instructions
-- Clone the repository to your computer from https://github.com/Ab9laziz/agriplus_website
+- Clone the repository to your computer from https://github.com/Ab9laziz/dairy_business
 - Open the project using your preferred code editor, preferably Visual studio.
 - Open the project using a web browser, preferably Google Chrome.
 
