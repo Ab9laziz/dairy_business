@@ -136,6 +136,8 @@ div a:hover{
 }
 .div2 a:hover{
     color:#25774e;
+    text-decoration: underline;
+    text-decoration-color: #25774e;
 }
 
 .div3{
