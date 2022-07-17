@@ -5,8 +5,8 @@ This is a simple web site that produces reports for a dairy farm.
 
 # Screenshots
 
-![Screenshot1](/assets/images/Screenshot1.png)
-![screenshot2](/assets/images/Screenshot2.png)
+![Screenshot1](/assets/images/screenshot1.png)
+![screenshot2](/assets/images/screenshot2.png)
 
 # Setup and installation instructions
 - Clone the repository to your computer from https://github.com/Ab9laziz/dairy_business
