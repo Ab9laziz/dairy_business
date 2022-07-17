@@ -12,7 +12,7 @@
 <body>
                 <!-- Navbar -->
 <div class="nav">
-    <div class="nav_heading"><a href="#">Dairy Farm</a></div>
+    <div class="nav_heading"><a href="../index.html">Dairy Farm</a></div>
     <div class="nav_items">
         <div><a href="#">Home</a></div>
         <div><a href="#">About</a></div>
@@ -25,7 +25,25 @@
     </div>
 </div> 
                                 <!-- The middle section -->
-
+<div class="inputcontainer">
+    <div>
+        <form action="submit" onsubmit="incomeOverTime()">
+            <label for="tx1">Shed A milk output in ltrs : </label>
+            <input type="text" id="tx1" placeholder="Enter the number of ltrs" required> <br>
+            <label for="tx2">Shed B milk output in ltrs : </label>
+            <input type="text" id="tx2" placeholder="Enter the number of ltrs" required><br>
+            <label for="tx3">Shed C milk output in ltrs : </label>
+            <input type="text" id="tx3" placeholder="Enter the number of ltrs" required><br>
+            <label for="tx4">Shed D milk output in ltrs : </label>
+            <input type="text" id="tx4" placeholder="Enter the number of ltrs" required><br>
+            <input type="submit" value="Submit">
+    
+        </form>
+    
+        <p id="p1"></p>
+        
+    </div>
+   </div>
 
 
 
@@ -103,6 +121,6 @@
 
 
 
-<script src="index.js"></script>
+<script src="../index.js"></script>
 </body>
 </html>
