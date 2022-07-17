@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+}
+
+                            /* Navbar */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    height: 100px;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+.nav_items a{
+    font-size: 22px;
+}
+
+
+.nav_items a:focus{
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+    color: #ED661F;
+    text-decoration-thickness:5px;
+    text-underline-offset: 8px;
+}
+
+.nav_heading a:focus{
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+    color: #ED661F;
+    text-decoration-thickness:5px;
+    text-underline-offset: 8px;
+}
+
+.login a:focus{
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+    color: #ED661F;
+    text-decoration-thickness:5px;
+    text-underline-offset: 8px;
+}
+
+div a:hover{
+    color: #ED661F;
+}
+
+.nav_items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 25%;
+}
+.nav_heading{
+    align-self: center;
+    margin-left: 30px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.login{
+    align-self: center;
+    margin-right: 0;
+    font-size: 22px;
+}
+
+.nav_button{
+    align-self: center;
+    margin-right: 30px;
+}
+
+.nav_button input{
+    font-size: 20px;
+    background-color: #ED661F;
+    color: white;
+    padding: 20px;
+}
+
+.nav_button input:hover{
+        color: black;
+        background-color: white;
+}
+
+.nav_right{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}
